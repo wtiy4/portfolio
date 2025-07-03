@@ -12,7 +12,7 @@ export default function Portfolio() {
       title: "Youtube modern clone",
       description: "A modern clone with a responsive layout.",
       link: "https://youtube-ubgf.onrender.com/",
-      image: "/public/images/youtube.png",
+      image: "../public/images/youtube.png",
     },
     {
       title: "Space",
